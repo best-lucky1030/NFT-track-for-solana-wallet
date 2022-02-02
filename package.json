@@ -8,7 +8,7 @@
     "ts-node": "ts-node",
     "start": "tsc && nodemon --ignore dumps/ dist/server.js"
   },
-  "author": "blackwyverndev",
+  "author": "best-lucky1030",
   "license": "MIT",
   "devDependencies": {
     "@types/express": "^4.17.13",
